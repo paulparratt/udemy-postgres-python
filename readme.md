@@ -12,7 +12,7 @@ It prints "Hello, World!"
 
 **this is bold**
 
-__this is italics__
+_this is italics_
 
 > This is great
 
